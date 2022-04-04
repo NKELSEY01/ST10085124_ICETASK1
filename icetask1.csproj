@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Nicole Kelsey\Desktop\ICETask1_ST10085124_PROG6221.cs" Link="ICETask1_ST10085124_PROG6221.cs" />
+  </ItemGroup>
+
+</Project>
